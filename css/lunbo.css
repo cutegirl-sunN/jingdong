@@ -1,0 +1,80 @@
+body,ul,li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.lb{
+	width: 1210px;
+	height: 184px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+#lunbo-left{
+	width: 30px;
+	height: 50px;
+	font-size: 20px;
+	color: #fff;
+	line-height: 50px;
+	text-align: center;
+	background: rgba(0,0,0,0.3);
+	position: absolute;
+	top:50px;
+	left:0px;
+	z-index: 10;
+}
+#lunbo-right{
+	width: 30px;
+	height: 50px;
+	font-size: 20px;
+	line-height: 50px;
+	text-align: center;
+	color: #fff;
+	background: rgba(0,0,0,0.3);
+	position: absolute;
+	top:50px;
+	right:0;
+	z-index: 10;
+}
+.lb-one{
+	width: 210px;
+	height: 151px;
+	float: left;
+}
+.lb-one a{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.lb-right-box{
+	width: 998px;
+	height: 164px;
+	float:right;
+	position: relative;
+	overflow: hidden;
+}
+.lb-right{
+	width: 3992px;
+	height: 164px;
+	float:right;
+	position: absolute;
+	top:0;
+	left:0px;
+}
+.lb-right-one{
+	width: 248px;
+	height: 164px;
+	margin-left: 1px;
+	float: left;
+}
+.lb-right-one a{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.addias{
+	width: 248px;
+}
+.zc{
+	width: 248px;
+	margin-left: 0;
+}
